@@ -54,8 +54,7 @@
               "RelativeToolTip": "Properties\\launchSettings.json",
               "ViewState": "AgIAABIAAAAAAAAAAAAAABcAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-05-21T09:32:13.461Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-21T09:32:13.461Z"
             },
             {
               "$type": "Document",
@@ -67,8 +66,7 @@
               "RelativeToolTip": "Data\\AppDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-21T05:55:03.091Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-21T05:55:03.091Z"
             },
             {
               "$type": "Document",
@@ -80,8 +78,7 @@
               "RelativeToolTip": "Model\\Employee.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-21T05:43:44.281Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-21T05:43:44.281Z"
             },
             {
               "$type": "Document",
@@ -93,8 +90,7 @@
               "RelativeToolTip": "Controllers\\EmpController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-21T05:41:47.038Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-21T05:41:47.038Z"
             },
             {
               "$type": "Document",
@@ -106,8 +102,7 @@
               "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-21T05:40:41.021Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-21T05:40:41.021Z"
             },
             {
               "$type": "Document",
@@ -119,8 +114,7 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-05-21T05:40:36.041Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-21T05:40:36.041Z"
             },
             {
               "$type": "Document",
@@ -130,7 +124,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\ajay\\source\\repos\\EmpManagement\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAYwAgAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-21T05:40:16.786Z",
               "EditorCaption": ""
