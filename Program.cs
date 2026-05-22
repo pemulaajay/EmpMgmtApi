@@ -29,7 +29,7 @@ namespace EmpManagement
                 app.UseSwagger();
                 app.UseSwaggerUI();
             }
-
+            app.UseCors("AllowReact");
             app.UseHttpsRedirection();
 
             app.UseAuthorization();

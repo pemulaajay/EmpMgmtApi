@@ -131,10 +131,10 @@ C:\Users\ajay\source\repos\EmpManagement\obj\Debug\net8.0\staticwebassets\msbuil
 C:\Users\ajay\source\repos\EmpManagement\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.EmpManagement.props
 C:\Users\ajay\source\repos\EmpManagement\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.EmpManagement.props
 C:\Users\ajay\source\repos\EmpManagement\obj\Debug\net8.0\staticwebassets.pack.json
-C:\Users\ajay\source\repos\EmpManagement\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\Users\ajay\source\repos\EmpManagement\obj\Debug\net8.0\EmpManag.280115C6.Up2Date
 C:\Users\ajay\source\repos\EmpManagement\obj\Debug\net8.0\EmpManagement.dll
 C:\Users\ajay\source\repos\EmpManagement\obj\Debug\net8.0\refint\EmpManagement.dll
 C:\Users\ajay\source\repos\EmpManagement\obj\Debug\net8.0\EmpManagement.pdb
 C:\Users\ajay\source\repos\EmpManagement\obj\Debug\net8.0\EmpManagement.genruntimeconfig.cache
 C:\Users\ajay\source\repos\EmpManagement\obj\Debug\net8.0\ref\EmpManagement.dll
+C:\Users\ajay\source\repos\EmpManagement\obj\Debug\net8.0\EmpManagement.sourcelink.json
